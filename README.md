@@ -9,9 +9,8 @@ To explore the relationship between ICU admission data and post-discharge mortal
 To create a model that can predict the risk of mortality within one year of hospital discharge.
 To provide medical professionals with a tool for identifying patients who may require enhanced post-discharge supervision and care.
 
-By leveraging machine learning techniques and statistical analysis, we aim to contribute to improved patient care and safety in the critical period following ICU hospitalization.
+By using machine learning techniques and statistical analysis, we aim to contribute to improved patient care and safety in the critical period following ICU hospitalization.
 
-* We did not uploaded the originals tables like admissions.csv, patients.csv cause it not available to the public.(We did MIMIC ethical test)
 ## Data Processing
 
 This project processes hospital admission, patient, diagnosis, and DRG (Diagnosis Related Group) data to create a comprehensive dataset for analysis. The process involves several key steps:
